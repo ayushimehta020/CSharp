@@ -1,0 +1,30 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="CalculatorAvalonia.MainWindow"
+        Title="CalculatorAvalonia">
+        
+        <Grid>
+                <StackPanel HorizontalAlignment="Center" Spacing="20" Margin="0, 20, 0, 0">
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                                <TextBlock Text="Enter no. 1" FontSize="30" Margin="0, 0, 30, 0" VerticalAlignment="Center"></TextBlock>
+                                <TextBox KeyDown="TxtNo1_OnKeyDown" Name="TxtNo1" Width="500" FontSize="30" HorizontalAlignment="Left"></TextBox>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                                <TextBlock Text="Enter no. 2" FontSize="30" Margin="0, 0, 37, 0" VerticalAlignment="Center"></TextBlock>
+                                <TextBox KeyDown="TxtNo2_OnKeyDown" Name="TxtNo2" Width="500" FontSize="30" HorizontalAlignment="Left"></TextBox>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Spacing="10">
+                                <Button Content="+" FontSize="30" Name="BtnAdd" Click="BtnAdd_OnClick" Padding="30, 10, 30, 10" Margin="0, 5, 0, 0"></Button>
+                                <Button Content="-" FontSize="30" Name="BtnSub" Click="BtnSub_OnClick" Padding="30, 10, 30, 10" Margin="0, 5, 0, 0"></Button>
+                                <Button Content="*" FontSize="30" Name="BtnMul" Click="BtnMul_OnClick" Padding="30, 10, 30, 10" Margin="0, 5, 0, 0"></Button>
+                                <Button Content="/" FontSize="30" Name="BtnDiv" Click="BtnDiv_OnClick" Padding="30, 10, 30, 10" Margin="0, 5, 0, 0"></Button>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                                <TextBlock Text="Answer is : " FontSize="30" Name="LblNo1"></TextBlock>
+                        </StackPanel>
+                </StackPanel>
+        </Grid>
+</Window>
