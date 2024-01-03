@@ -1,0 +1,8 @@
+C:\Ayushi\FileAssociationNPP\FileAssociationNPP\bin\Debug\FileAssociationNPP.exe
+C:\Ayushi\FileAssociationNPP\FileAssociationNPP\bin\Debug\FileAssociationNPP.pdb
+C:\Ayushi\FileAssociationNPP\FileAssociationNPP\obj\x86\Debug\FileAssociationNPP.Form1.resources
+C:\Ayushi\FileAssociationNPP\FileAssociationNPP\obj\x86\Debug\FileAssociationNPP.Properties.Resources.resources
+C:\Ayushi\FileAssociationNPP\FileAssociationNPP\obj\x86\Debug\FileAssociationNPP.csproj.GenerateResource.Cache
+C:\Ayushi\FileAssociationNPP\FileAssociationNPP\obj\x86\Debug\FileAssociationNPP.exe
+C:\Ayushi\FileAssociationNPP\FileAssociationNPP\obj\x86\Debug\FileAssociationNPP.pdb
+C:\Ayushi\FileAssociationNPP\FileAssociationNPP\obj\x86\Debug\FileAssociationNPP.csprojResolveAssemblyReference.cache
