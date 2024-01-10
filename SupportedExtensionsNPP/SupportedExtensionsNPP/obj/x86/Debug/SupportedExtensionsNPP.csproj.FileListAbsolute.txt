@@ -1,0 +1,8 @@
+C:\Ayushi\CSharp\WindowsFormApplications\SupportedExtensionsNPP\SupportedExtensionsNPP\bin\Debug\SupportedExtensionsNPP.exe
+C:\Ayushi\CSharp\WindowsFormApplications\SupportedExtensionsNPP\SupportedExtensionsNPP\bin\Debug\SupportedExtensionsNPP.pdb
+C:\Ayushi\CSharp\WindowsFormApplications\SupportedExtensionsNPP\SupportedExtensionsNPP\obj\x86\Debug\SupportedExtensionsNPP.Form1.resources
+C:\Ayushi\CSharp\WindowsFormApplications\SupportedExtensionsNPP\SupportedExtensionsNPP\obj\x86\Debug\SupportedExtensionsNPP.Properties.Resources.resources
+C:\Ayushi\CSharp\WindowsFormApplications\SupportedExtensionsNPP\SupportedExtensionsNPP\obj\x86\Debug\SupportedExtensionsNPP.csproj.GenerateResource.Cache
+C:\Ayushi\CSharp\WindowsFormApplications\SupportedExtensionsNPP\SupportedExtensionsNPP\obj\x86\Debug\SupportedExtensionsNPP.exe
+C:\Ayushi\CSharp\WindowsFormApplications\SupportedExtensionsNPP\SupportedExtensionsNPP\obj\x86\Debug\SupportedExtensionsNPP.pdb
+C:\Ayushi\CSharp\WindowsFormApplications\SupportedExtensionsNPP\SupportedExtensionsNPP\obj\x86\Debug\SupportedExtensionsNPP.csprojResolveAssemblyReference.cache
